@@ -1,0 +1,35 @@
+{
+    "packages":[
+        {
+            "name":"LSI Group",
+            "maintainer":"LSI Group",
+            "websiteURL":"https://lsi-group.net",
+            "email":"pvelasquez@lsi-group.net",
+            "help":{
+                "online":"https://www.lsi-group.net"
+            },
+            "platforms":[
+                {
+                    "name":"indConnect LINK (dependency: Arduino SAMD Boards 1.6.9)",
+                    "architecture":"samd",
+                    "version":"1.0.1",
+                    "category":"Contributed",
+                    "boards":[
+                        {
+                            "name":"indConnect LINK"
+                        },
+
+                    ],
+                    "toolsDependencies":[
+
+                    ]
+                }
+                
+            ],
+            "tools":[
+
+            ]
+        }
+        
+    ]
+}
