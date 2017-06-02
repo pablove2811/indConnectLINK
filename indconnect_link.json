@@ -14,8 +14,8 @@
                     "architecture":"samd",
                     "version":"1.0.1",
                     "category":"Contributed",
-                    "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indConnect%20link.zip",
-                    "archiveFileName":"indConnect_link.zip",
+                    "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indconnect_link.tar.bz2",
+                    "archiveFileName":"indConnect_link.tar.bz2",
                     "boards":[
                         {
                             "name":"indConnect LINK"
