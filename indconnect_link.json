@@ -14,6 +14,7 @@
                     "architecture":"samd",
                     "version":"1.0.1",
                     "category":"Contributed",
+                    "url":"https://cdn.sparkfun.com/assets/learn_tutorials/4/9/5/sparkfun-esp8266-2.1.0.tar.bz2",
                     "boards":[
                         {
                             "name":"indConnect LINK"
