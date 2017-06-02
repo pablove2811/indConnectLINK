@@ -16,6 +16,11 @@
                     "category":"Contributed",
                     "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indconnect_link.tar.bz2",
                     "archiveFileName":"indConnect_link.tar.bz2",
+                    "checksum":"3786c4aa750f7e13a46b82d7005f5996b21d1c70aae37f012c1fa5a24ff349a8",
+                    "size":"210055",
+                    "help":{
+                            "online":"https://www.lsi-group.net"
+                    },
                     "boards":[
                         {
                             "name":"indConnect LINK"
