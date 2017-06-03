@@ -18,9 +18,9 @@
                             "online":"https://www.lsi-group.net"
                     },                    
                     "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indconnect_link.tar.bz2",
-                    "archiveFileName":"indConnect_link.tar.bz2",
-                    "checksum":"SHA-256:3786c4aa750f7e13a46b82d7005f5996b21d1c70aae37f012c1fa5a24ff349a8",
-                    "size":"210055",
+                    "archiveFileName":"indconnect_link.tar.bz2",
+                    "checksum":"SHA-256:66ef6f0509f6f97faefe8ea9ea9b2c09b3caa28a36b975a0328ff32ba667b866",
+                    "size":"206129",
                     "boards":[
                         {
                             "name":"indConnect LINK"
