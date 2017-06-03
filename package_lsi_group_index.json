@@ -19,8 +19,8 @@
                     },                    
                     "url":"https://github.com/pablove2811/indConnectLINK/raw/master/lsigroup-indconnectlink-1.0.1.zip",
                     "archiveFileName":"lsigroup-indconnectlink-1.0.1.zip",
-                    "size":"399479",
-                    "checksum":"SHA-256:2083fbcdfb2e26240993d38835f3b59ce0229fa06f9ac256eac9772060e3dcfb",
+                    "size":"499968",
+                    "checksum":"SHA-256:6cda5eb78dfce392169b0fa9695935a964e8e9f4df6aba2beb705b84419d8232",
                     "boards":[
                         {
                             "name":"indConnect LINK"
