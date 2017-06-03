@@ -17,10 +17,10 @@
                     "help":{
                             "online":"https://www.lsi-group.net"
                     },                    
-                    "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indconnect_link.tar.bz2",
-                    "archiveFileName":"indconnect_link.tar.bz2",
-                    "checksum":"SHA-256:66ef6f0509f6f97faefe8ea9ea9b2c09b3caa28a36b975a0328ff32ba667b866",
-                    "size":"206129",
+                    "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indConnect%20link.zip",
+                    "archiveFileName":"indConnec link.zip",
+                    "checksum":"SHA-256:96240670a7e08f38091f7ad6d7e220a2d6ae4793eec2a09197aec4ff84072960",
+                    "size":"402543",
                     "boards":[
                         {
                             "name":"indConnect LINK"
