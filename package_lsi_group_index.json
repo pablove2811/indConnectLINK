@@ -17,9 +17,9 @@
                     "help":{
                             "online":"https://www.lsi-group.net"
                     },                    
-                    "url":"https://github.com/pablove2811/indConnectLINK/blob/master/indConnect%20link.zip",
-                    "archiveFileName":"indConnec link.zip",
-                    "checksum":"SHA-256:96240670a7e08f38091f7ad6d7e220a2d6ae4793eec2a09197aec4ff84072960",
+                    "url":"https://github.com/pablove2811/indConnectLINK/blob/master/lsigroup-indconnectlink-1.0.1.zip",
+                    "archiveFileName":"lsigroup-indconnectlink-1.0.1.zip",
+                    "checksum":"SHA-256:acbed3df07336e93ec8d084b6e5ef19a19fb7f4077988919040ed9f1bf62af35",
                     "size":"402543",
                     "boards":[
                         {
