@@ -3,10 +3,10 @@
         {
             "name":"LSI Group",
             "maintainer":"LSI Group",
-            "websiteURL":"https://www.lsi-group.net",
+            "websiteURL":"http://www.lsi-group.net/",
             "email":"pvelasquez@lsi-group.net",
             "help":{
-                "online":"https://www.lsi-group.net"
+                "online":"http://www.lsi-group.net/"
             },
             "platforms":[
                 {
@@ -15,7 +15,7 @@
                     "version":"1.0.1",
                     "category":"Contributed",
                     "help":{
-                            "online":"https://www.lsi-group.net"
+                            "online":"http://www.lsi-group.net/"
                     },                    
                     "url":"https://github.com/pablove2811/indConnectLINK/raw/master/lsigroup-indconnectlink-1.0.1.zip",
                     "archiveFileName":"lsigroup-indconnectlink-1.0.1.zip",
